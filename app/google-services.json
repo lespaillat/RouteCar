@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224577547277",
+    "firebase_url": "https://routecar-2d223.firebaseio.com",
+    "project_id": "routecar-2d223",
+    "storage_bucket": "routecar-2d223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224577547277:android:4343a15758d1278ba63944",
+        "android_client_info": {
+          "package_name": "com.lina.routecar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224577547277-4hcan1e6531urgd4imo09c7c39kj79sl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lina.routecar",
+            "certificate_hash": "96194004a5913d2e5bd259204a5b887727a3b4d7"
+          }
+        },
+        {
+          "client_id": "224577547277-f84b4pkc4j3l648eg728rle4isj1iek1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuFwb7lQDFh18Iq4eTBVx3B9LspF3NLyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224577547277-f84b4pkc4j3l648eg728rle4isj1iek1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
