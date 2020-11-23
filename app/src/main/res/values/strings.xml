@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">RouteCar</string>
+    <string name="user_name">Nombre Completo</string>
+    <string name="user_mail">Correo Electronico</string>
+    <string name="user_pass">Contraseña</string>
+    <string name="user_login_btn"> YA TENGO CUENTA</string>
+    <string name="user_register_btn">REGISTRATE</string>
+    <string name="msg_login">Escoge tus rutas en al centro, como también en las zonas aledañas</string>
+
 </resources>
